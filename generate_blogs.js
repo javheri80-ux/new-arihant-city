@@ -383,7 +383,8 @@ const template = (title, slug) => `<!DOCTYPE html>
             left: 0;
             width: 100%;
             height: 60px;
-            background-color: var(--accent-gold, #a88c39);
+            background-color: var(--primary-maroon, #500115);
+            border-top: 3px solid var(--accent-gold, #a88c39);
             z-index: 9999;
             box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.15);
         }
@@ -410,7 +411,7 @@ const template = (title, slug) => `<!DOCTYPE html>
 
         .mobile-contact-bar .contact-item:hover,
         .mobile-contact-bar .contact-item:active {
-            background-color: rgba(255, 255, 255, 0.15);
+            background-color: var(--accent-gold, #a88c39);
         }
 
         .mobile-contact-bar .contact-item svg {
