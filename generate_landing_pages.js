@@ -140,13 +140,13 @@ pages.forEach(page => {
     content = content.replace(/<link rel="canonical" href="[^"]*"[^>]*>/, 
         `<link rel="canonical" href="https://arihant.city/${page.filename}" />`);
 
-    // 10. H1 tag (SEO main title)
+    // 10. H1 tag: Replace hidden H1 placeholder with empty div for skip-link compatibility
     content = content.replace(/<h1 id="main-content" class="visually-hidden"[\s\S]*?>[\s\S]*?<\/h1>/, 
-        `<h1 id="main-content" class="visually-hidden" style="position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;">${page.h1}</h1>`);
+        `<div id="main-content" class="visually-hidden"></div>`);
 
-    // 11. H2 tag (floor plan section title)
+    // 11. H1 tag: Convert the main visible section title from H2 to H1
     content = content.replace(/<h2 class="section-title">Arihant City Floor Plans & Configurations<\/h2>/, 
-        `<h2 class="section-title">${page.h2}</h2>`);
+        `<h1 class="section-title">${page.h2}</h1>`);
 
     // 12. Main Body Copy Paragraphs
     content = content.replace('If you are looking for a perfect home in the prime area of Kalyan and Bhiwandi, <strong>Arihant City</strong> is the ideal destination to fulfill your dreams. A world-class township where modern amenities and nature coexist harmoniously. With its stunning architecture and excellent highway connectivity, this project has become the top choice for homebuyers.', page.p1);
@@ -201,7 +201,7 @@ pages.forEach(page => {
     content = content.replace(faqAccordionRegex, `<div class="faq-accordion">${faqHtml}\n            </div>\n        </section>`);
 
     fs.writeFileSync(path.join(__dirname, page.filename), content, 'utf8');
-    console.log(`Generated page: ${page.filename} with correct schema & AEO/GEO FAQ templates.`);
+    console.log(`Generated page: ${page.filename} with visible H1 tag and correct schema.`);
 });
 
-console.log("All keyword landing pages optimized for AEO/GEO successfully!");
+console.log("All keyword landing pages optimized with visible H1 tags successfully!");

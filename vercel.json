@@ -22,6 +22,26 @@
       "destination": "/api/index.php"
     },
     {
+      "source": "/2-bhk-flat-in-bhiwandi",
+      "destination": "/2-bhk-flat-in-bhiwandi.html"
+    },
+    {
+      "source": "/2-bhk-flat-in-bhiwandi-price",
+      "destination": "/2-bhk-flat-in-bhiwandi-price.html"
+    },
+    {
+      "source": "/2-bhk-flat-in-bhiwandi-for-sale",
+      "destination": "/2-bhk-flat-in-bhiwandi-for-sale.html"
+    },
+    {
+      "source": "/2-bhk-flat-in-anjur-phata-bhiwandi",
+      "destination": "/2-bhk-flat-in-anjur-phata-bhiwandi.html"
+    },
+    {
+      "source": "/ready-to-move-flats-in-bhiwandi",
+      "destination": "/ready-to-move-flats-in-bhiwandi.html"
+    },
+    {
       "source": "/((?!api|images|blog|.*\\.html$|.*\\.css$|.*\\.js$|.*\\.webp$|.*\\.png$|.*\\.jpg$|.*\\.ico$|robots\\.txt|sitemap\\.xml).*)",
       "destination": "/index.html"
     }
