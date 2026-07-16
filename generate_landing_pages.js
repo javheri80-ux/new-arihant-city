@@ -105,6 +105,8 @@ const pages = [
 pages.forEach(page => {
     let content = masterContent;
 
+    const cleanPath = page.filename.replace('.html', '');
+
     // 1. Title tag
     content = content.replace(/<title>[\s\S]*?<\/title>/, `<title>${page.title}</title>`);
 
@@ -124,9 +126,9 @@ pages.forEach(page => {
     content = content.replace(/<meta property="og:description"[\s\S]*?content="[^"]*"[^>]*>/, 
         `<meta property="og:description" content="${page.description}" />`);
 
-    // 6. OG URL
+    // 6. OG URL (using clean URL on active domain)
     content = content.replace(/<meta property="og:url" content="[^"]*"[^>]*>/, 
-        `<meta property="og:url" content="https://arihant.city/${page.filename}" />`);
+        `<meta property="og:url" content="https://www.arihantcity.site/${cleanPath}" />`);
 
     // 7. Twitter Title
     content = content.replace(/<meta name="twitter:title" content="[^"]*"[^>]*>/, 
@@ -136,9 +138,9 @@ pages.forEach(page => {
     content = content.replace(/<meta name="twitter:description"[\s\S]*?content="[^"]*"[^>]*>/, 
         `<meta name="twitter:description" content="${page.description}" />`);
 
-    // 9. Canonical
+    // 9. Canonical (using clean URL on active domain)
     content = content.replace(/<link rel="canonical" href="[^"]*"[^>]*>/, 
-        `<link rel="canonical" href="https://arihant.city/${page.filename}" />`);
+        `<link rel="canonical" href="https://www.arihantcity.site/${cleanPath}" />`);
 
     // 10. H1 tag: Replace hidden H1 placeholder with empty div for skip-link compatibility
     content = content.replace(/<h1 id="main-content" class="visually-hidden"[\s\S]*?>[\s\S]*?<\/h1>/, 
@@ -158,10 +160,10 @@ pages.forEach(page => {
         `"name": "${page.keywordTitle} - Arihant City",\n      "description": "${page.description}"`
     );
 
-    // 14. Breadcrumb Schema third item url and name
+    // 14. Breadcrumb Schema third item url and name (using clean URL on active domain)
     content = content.replace(
-        /{"@type": "ListItem", "position": 3, "name": "Arihant City", "item": "https:\/\/arihant.city\/#"}/,
-        `{"@type": "ListItem", "position": 3, "name": "${page.keywordTitle}", "item": "https://arihant.city/${page.filename}"}`
+        /{"@type": "ListItem", "position": 3, "name": "Arihant City", "item": "https:\/\/www.arihantcity.site\/#"}/,
+        `{"@type": "ListItem", "position": 3, "name": "${page.keywordTitle}", "item": "https://www.arihantcity.site/${cleanPath}"}`
     );
 
     // 15. Dynamic AEO / GEO FAQ Schema Generation
@@ -201,7 +203,7 @@ pages.forEach(page => {
     content = content.replace(faqAccordionRegex, `<div class="faq-accordion">${faqHtml}\n            </div>\n        </section>`);
 
     fs.writeFileSync(path.join(__dirname, page.filename), content, 'utf8');
-    console.log(`Generated page: ${page.filename} with visible H1 tag and correct schema.`);
+    console.log(`Generated page: ${page.filename} with visible H1 tag, correct schema, and active domain.`);
 });
 
-console.log("All keyword landing pages optimized with visible H1 tags successfully!");
+console.log("All keyword landing pages optimized with visible H1 tags and active domain successfully!");
