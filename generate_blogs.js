@@ -517,10 +517,6 @@ const template = (title, slug) => `<!DOCTYPE html>
     </script>
 </head>
 <body>
-    <div class="top-disclaimer-bar" style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;">
-        Disclaimer: This is an Authorized Channel Partner website. It is not the official developer website. MahaRERA Phase-I No: P51700010884. Sales Helpline: <a href="tel:+919028259563">+91 90282 59563</a>
-    </div>
-
     <header>
         <div class="nav-container container">
             <div style="display: flex; flex-direction: column; align-items: flex-start; line-height: 1;">
