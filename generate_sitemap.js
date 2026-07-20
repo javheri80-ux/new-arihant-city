@@ -22,7 +22,6 @@ const rootPages = [
     { loc: 'bhiwandi-property-rates-per-square-feet', priority: '0.9', changefreq: 'weekly' },
     { loc: 'property-in-bhiwandi-millat-nagar', priority: '0.9', changefreq: 'weekly' },
     { loc: 'olx-bhiwandi-property', priority: '0.9', changefreq: 'weekly' },
-    { loc: 'flats-in-bhiwandi-below-15-lakhs', priority: '0.9', changefreq: 'weekly' },
     { loc: 'bhiwandi-property-tax', priority: '0.9', changefreq: 'weekly' },
     { loc: 'flats-in-bhiwandi-on-rent', priority: '0.9', changefreq: 'weekly' },
     { loc: 'property-in-bhiwandi', priority: '0.9', changefreq: 'weekly' },

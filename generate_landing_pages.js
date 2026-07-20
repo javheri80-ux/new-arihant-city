@@ -277,23 +277,6 @@ const pages = [
     ]
   },
   {
-    filename: 'flats-in-bhiwandi-below-15-lakhs.html',
-    keyword: 'Flats in Bhiwandi below 15 lakhs',
-    keywordTitle: 'Flats in Bhiwandi Below 15 Lakhs',
-    title: 'Flats in Bhiwandi below 15 lakhs – Budget Homes & Payment Plans',
-    description: 'Looking for flats in Bhiwandi below 15 lakhs? Explore budget-friendly EMI schemes, low down payments, and government PMAY subsidies at Arihant City. Premium township homes starting at easy rates.',
-    keywords: 'Flats in Bhiwandi below 15 lakhs, budget flats in bhiwandi, affordable housing bhiwandi, 15 lakh flats in bhiwandi, cheap flats bhiwandi',
-    h1: 'Affordable Housing: Flats in Bhiwandi Below 15 Lakhs Options',
-    h2: 'Budget Homes & Payment Schemes in Arihant City',
-    p1: 'While finding premium <strong>Flats in Bhiwandi below 15 lakhs</strong> is highly challenging in today\'s market, <strong>Arihant City</strong> provides excellent low-down-payment options, convenient construction-linked payment plans, and government subsidy benefits to help budget buyers own a home.',
-    p2: 'Being a fully MahaRERA-approved township, your investment is completely safe. Avoid illegal, non-RERA local constructions that advertise <strong>Flats in Bhiwandi below 15 lakhs</strong>. Backed by the trust of the Arihant Group, we help you secure bank loans to make your home-owning dream a reality.',
-    faqs: [
-      { q: "Are there legal, RERA-approved flats in Bhiwandi below 15 lakhs?", a: "Most fully legal, gated township properties start around ₹30-35 Lakhs. However, Arihant City offers attractive bank loan assistance and PMAY subsidy benefits that make owning a home affordable." },
-      { q: "What is the risk of buying local unregistered flats under 15 lakhs?", a: "Buying non-RERA registered local flats carries high legal risks, absence of Occupancy Certificates (OC), water issues, and lack of home loan approvals from nationalized banks." },
-      { q: "Does the government offer any subsidies for affordable housing?", a: "Yes! Under the Pradhan Mantri Awas Yojana (PMAY), eligible first-time homebuyers can receive significant interest subsidies, lowering the effective purchase cost." }
-    ]
-  },
-  {
     filename: 'bhiwandi-property-tax.html',
     keyword: 'Bhiwandi property tax',
     keywordTitle: 'Bhiwandi Property Tax',
