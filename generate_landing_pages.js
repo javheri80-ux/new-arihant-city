@@ -99,6 +99,114 @@ const pages = [
       { q: "Can I get immediate bank loan approvals for ready possession flats?", a: "Yes, since OC is received, all major banks provide quick home loan approvals for our ready to move in flats." },
       { q: "Is pick-and-drop service available for site visits?", a: "Yes, we provide complimentary pick-up & drop-off service from key points in Thane and Kalyan for scheduled site visits." }
     ]
+  },
+  {
+    filename: 'bhiwandi-1-bhk-flat.html',
+    keyword: 'bhiwandi 1 bhk flat',
+    keywordTitle: 'Bhiwandi 1 BHK Flat',
+    title: 'Bhiwandi 1 BHK Flat – Luxury 1 BHK Flats in Arihant City Township',
+    description: 'Looking for a premium Bhiwandi 1 BHK flat? Arihant City offers luxury 1 BHK residences with modern amenities at the Kalyan-Bhiwandi Bypass. Download cost sheets!',
+    keywords: 'bhiwandi 1 bhk flat, 1bhk flat in bhiwandi, buy 1 bhk flat in bhiwandi, arihant city 1bhk, residential project bhiwandi',
+    h1: 'Premium 1 BHK Flat in Bhiwandi - Arihant City Downtown',
+    h2: 'Arihant City 1 BHK Flat in Bhiwandi - Floor Plans',
+    p1: 'If you are searching for a premium <strong>Bhiwandi 1 BHK flat</strong>, <strong>Arihant City</strong> is the ideal destination to fulfill your dreams. A world-class township where modern amenities and nature coexist harmoniously. With its stunning architecture and excellent bypass connectivity, this project has become the top choice for homebuyers seeking high-quality 1 BHK homes.',
+    p2: 'Being a fully MahaRERA-approved project, your investment in a <strong>Bhiwandi 1 BHK flat</strong> here is completely secure. The premium 1BHK layouts in this township offer an ultra-luxury lifestyle. Backed by the trust of the Arihant Group, living here is truly a royal experience.',
+    faqs: [
+      { q: "What is the size of a Bhiwandi 1 BHK flat at Arihant City?", a: "A premium 1 BHK flat at Arihant City offers a spacious layout of 543 Sq.Ft. carpet area. Each home features a king-size balcony, 10ft. ceiling heights, and premium fittings." },
+      { q: "Is Arihant City the best project for a Bhiwandi 1 BHK flat?", a: "Yes, Arihant City is highly recommended for a Bhiwandi 1 BHK flat due to its 32-acre mega township structure, 20+ luxury amenities, MahaRERA approval, and a 20-year legacy of the Arihant Group." },
+      { q: "What amenities are available in this project?", a: "Arihant City offers a luxury clubhouse, swimming pool, state-of-the-art gym, landscaped gardens, 24/7 security, kids play area, and more." },
+      { q: "Is the project RERA registered?", a: "Yes, Arihant City is MahaRERA approved. The RERA registration numbers include Phase-I: P51700010884 and Phase-II: P51700028429." }
+    ]
+  },
+  {
+    filename: '1-bhk-flat-in-bhiwandi-for-sale.html',
+    keyword: '1 bhk flat in bhiwandi for sale',
+    keywordTitle: '1 BHK Flat in Bhiwandi for Sale',
+    title: '1 BHK Flat in Bhiwandi for Sale – Buy Premium Homes in Arihant City',
+    description: 'Explore the finest 1 BHK flat in Bhiwandi for sale. Arihant City presents luxury 1 BHK balcony homes on the ring-road touch Kalyan-Bhiwandi Bypass. RERA approved project.',
+    keywords: '1 bhk flat in bhiwandi for sale, buy 1bhk flat in bhiwandi, properties for sale in bhiwandi, new 1bhk projects in bhiwandi',
+    h1: 'Premium 1 BHK Flat in Bhiwandi for Sale - Arihant City',
+    h2: '1 BHK Flat in Bhiwandi for Sale - Floor Plans & Cost Sheets',
+    p1: 'If you are searching for a premium <strong>1 BHK flat in Bhiwandi for sale</strong>, <strong>Arihant City</strong> is the ideal township to establish your family. A world-class project where modern amenities and nature coexist harmoniously. With its stunning architecture and bypass connectivity, these apartments are the top choice for buyers looking for immediate or near-possession options.',
+    p2: 'Being a fully MahaRERA-approved project, your booking of a <strong>1 BHK flat in Bhiwandi for sale</strong> is completely secure. The luxury 1BHK homes in this township offer a premium lifestyle. Backed by the trust of the Arihant Group, buying a home for sale here is a secure life investment.',
+    faqs: [
+      { q: "How do I book a 1 BHK flat in Bhiwandi for sale at Arihant City?", a: "To book a premium 1 BHK flat in Bhiwandi for sale, register via the contact form on this website. Our sales team will arrange a free site visit and help block your unit." },
+      { q: "What makes a 1 BHK flat in Bhiwandi for sale a good investment?", a: "Investing in a 1 BHK flat in Bhiwandi for sale here offers high capital appreciation due to the upcoming Metro Line 5 (Temghar Station is 2 mins away) and easy accessibility to Thane (20 mins)." },
+      { q: "Is the project fully RERA compliant?", a: "Yes, Arihant City is MahaRERA approved. Registration numbers include Phase-I: P51700010884, D3 Tower: P51700022743, and Phase-II: P51700028429." },
+      { q: "What configurations are available?", a: "Apart from the 1 BHK Luxury configurations, 2 BHK Elite, 3 BHK (1+1 Jodi), and 4 BHK premium options are also available." }
+    ]
+  },
+  {
+    filename: 'bhiwandi-1-bhk-flat-price.html',
+    keyword: 'bhiwandi 1 bhk flat price',
+    keywordTitle: 'Bhiwandi 1 BHK Flat Price',
+    title: 'Bhiwandi 1 BHK Flat Price – Cost Sheets, Offers & Plans in Arihant City',
+    description: 'Get the latest Bhiwandi 1 BHK flat price, payment schedules, and limited-time discounts for Arihant City. Premium 1BHK flats starting at competitive rates.',
+    keywords: 'bhiwandi 1 bhk flat price, 1bhk price bhiwandi, arihant city 1bhk price, 1 bhk flats cost bhiwandi, property rates in bhiwandi',
+    h1: 'Best Bhiwandi 1 BHK Flat Price & Payment Plans',
+    h2: 'Arihant City 1 BHK Flat in Bhiwandi Price Details',
+    p1: 'If you want to check the best <strong>Bhiwandi 1 BHK flat price</strong>, <strong>Arihant City</strong> offers premium homes at highly competitive and attractive rates. A world-class township where modern amenities and nature coexist harmoniously. With its stunning architecture and excellent connectivity, this project offers the most value-for-money pricing in the Thane region.',
+    p2: 'Being a fully MahaRERA-approved project, your investment is completely secure. The premium 1BHK configurations offer an ultra-luxury lifestyle at a budget-friendly <strong>Bhiwandi 1 BHK flat price</strong>. Backed by the trust of the Arihant Group, buying your home here is a smart and transparent experience.',
+    faqs: [
+      { q: "What is the starting Bhiwandi 1 BHK flat price at Arihant City?", a: "The starting Bhiwandi 1 BHK flat price at Arihant City is highly competitive. Get detailed price sheets and cost breakdowns by clicking the Enquiry Now button." },
+      { q: "Are there bank loan offers available for the 1 BHK flat price?", a: "Yes, because Arihant City is fully MahaRERA registered and has received OC for completed phases, nationalized banks offer quick loan approvals for the 1 BHK flat price list." },
+      { q: "What are the location advantages of Arihant City?", a: "Arihant City is situated just 1 min from the Mumbai-Nashik Expressway and 2 mins from the upcoming Temghar Metro Station (Line 5)." },
+      { q: "How can I download the cost sheet and pricing structure?", a: "You can download the full pricing sheet and cost breakdown of your 1 BHK flat by submitting the Enquiry Now form." }
+    ]
+  },
+  {
+    filename: 'flats-in-bhiwandi.html',
+    keyword: 'flats in bhiwandi',
+    keywordTitle: 'Flats in Bhiwandi',
+    title: 'Flats in Bhiwandi – Premium 1, 2, & 3 BHK Apartments in Arihant City',
+    description: 'Explore premium flats in Bhiwandi at Arihant City. Luxury 1, 2 & 3 BHK balcony flats with 20+ world-class amenities at the prime Kalyan-Bhiwandi Bypass. Download brochure!',
+    keywords: 'flats in bhiwandi, buy flat in bhiwandi, residential project bhiwandi, 2bhk flats in bhiwandi, 1bhk flats in bhiwandi',
+    h1: 'Premium Apartments & Flats in Bhiwandi - Arihant City',
+    h2: 'Arihant City Flats in Bhiwandi - Specifications & Details',
+    p1: 'If you are searching for the best <strong>flats in Bhiwandi</strong>, <strong>Arihant City</strong> is the ultimate destination to build your dream home. A world-class township where modern amenities and nature coexist harmoniously. With its stunning architecture and excellent bypass connectivity, this project has become the top choice for homebuyers seeking premium living.',
+    p2: 'Being a fully MahaRERA-approved project, your investment in <strong>flats in Bhiwandi</strong> here is completely secure. The premium apartments in this township offer an ultra-luxury lifestyle. Backed by the trust of the Arihant Group, living here is truly a royal experience.',
+    faqs: [
+      { q: "What configurations of flats in Bhiwandi are available at Arihant City?", a: "Arihant City offers premium 1 BHK Luxury (543 Sq.Ft. Carpet), 2 BHK Elite (793 Sq.Ft. Carpet), 3 BHK (1+1 Jodi - 1080 Sq.Ft. Carpet), and 4 BHK flats." },
+      { q: "Is Arihant City the best project for flats in Bhiwandi?", a: "Yes, Arihant City is highly recommended for flats in Bhiwandi due to its 32-acre mega township structure, 20+ luxury amenities, MahaRERA approval, and a 20-year legacy of the Arihant Group." },
+      { q: "What amenities are available for residents?", a: "Arihant City offers a luxury clubhouse, swimming pool, state-of-the-art gym, landscaped gardens, 24/7 security, kids play area, and more." },
+      { q: "Is the project RERA registered?", a: "Yes, Arihant City is MahaRERA approved. The RERA registration numbers include Phase-I: P51700010884 and Phase-II: P51700028429." }
+    ]
+  },
+  {
+    filename: 'flats-for-sale-in-bhiwandi-millat-nagar.html',
+    keyword: 'flats for sale in bhiwandi millat nagar',
+    keywordTitle: 'Flats for Sale in Bhiwandi Millat Nagar',
+    title: 'Flats for Sale in Bhiwandi Millat Nagar – Premium Homes in Arihant City',
+    description: 'Looking for flats for sale in Bhiwandi Millat Nagar region? Arihant City offers luxury 1 & 2 BHK balcony homes on the ring-road touch Kalyan-Bhiwandi Bypass. Download brochure!',
+    keywords: 'flats for sale in bhiwandi millat nagar, flats near millat nagar bhiwandi, buy flat in millat nagar, properties for sale in bhiwandi millat nagar',
+    h1: 'Premium Flats for Sale in Bhiwandi Millat Nagar Region',
+    h2: 'Arihant City Flats for Sale in Bhiwandi Millat Nagar Region',
+    p1: 'If you are searching for premium <strong>flats for sale in Bhiwandi Millat Nagar</strong> region, <strong>Arihant City</strong> offers the perfect blend of location comfort and luxury. A world-class township where modern amenities and nature coexist harmoniously. With its proximity to Millat Nagar, this project has become the top choice for working professionals and families.',
+    p2: 'Being a fully MahaRERA-approved project, your investment in <strong>flats for sale in Bhiwandi Millat Nagar</strong> vicinity is completely secure. The spacious homes in this township offer an ultra-luxury lifestyle. Backed by the trust of the Arihant Group, living near Millat Nagar is a highly convenient and premium experience.',
+    faqs: [
+      { q: "How far is Arihant City from Millat Nagar Bhiwandi?", a: "Arihant City is located in close proximity to Millat Nagar Bhiwandi, situated on the main Kalyan-Bhiwandi Bypass, offering 1-minute access to expressways and metro lines." },
+      { q: "Is a flat in this region suitable for Thane commuters?", a: "Yes, a flat in this area at Arihant City is ideal for Thane commuters, as Majiwada (Thane) is reachable in just 20 minutes via the expressway." },
+      { q: "What amenities are available near Millat Nagar area in this project?", a: "The project includes a luxury clubhouse, swimming pool, state-of-the-art gym, landscaped gardens, 24/7 security, and close proximity to top schools and hospitals." },
+      { q: "Are structural layouts RERA approved?", a: "Yes, Arihant City is RERA certified. It is fully compliant with MahaRERA guidelines for transparency and legal safety." }
+    ]
+  },
+  {
+    filename: 'bhiwandi-flat-rate.html',
+    keyword: 'bhiwandi flat rate',
+    keywordTitle: 'Bhiwandi Flat Rate',
+    title: 'Bhiwandi Flat Rate – Property Rates & Cost Sheets in Arihant City',
+    description: 'Get the latest Bhiwandi flat rate details, cost sheets, and payment plans for Arihant City. Buy premium 1 & 2 BHK flats with luxury amenities. Enquire now!',
+    keywords: 'bhiwandi flat rate, property rates in bhiwandi, flat prices in bhiwandi, cost of flats in bhiwandi, arihant city property rates',
+    h1: 'Best Bhiwandi Flat Rate & Cost Details - Arihant City',
+    h2: 'Arihant City Bhiwandi Flat Rate & Pricing Structure',
+    p1: 'If you want to check the best <strong>bhiwandi flat rate</strong>, <strong>Arihant City</strong> offers premium homes at highly competitive and attractive rates. A world-class township where modern amenities and nature coexist harmoniously. With its stunning architecture and excellent connectivity, this project offers the most value-for-money property rates in the Thane region.',
+    p2: 'Being a fully MahaRERA-approved project, your investment is completely secure. The premium configurations offer an ultra-luxury lifestyle at a budget-friendly <strong>bhiwandi flat rate</strong>. Backed by the trust of the Arihant Group, buying your home here is a smart and transparent experience.',
+    faqs: [
+      { q: "What is the property rate at Arihant City?", a: "The property rate at Arihant City is highly competitive. Get detailed flat rates and cost sheets by submitting the Enquiry form." },
+      { q: "Are there bank loan offers available?", a: "Yes, because Arihant City is fully MahaRERA registered and has received OC for completed phases, nationalized banks offer quick loan approvals." },
+      { q: "What are the location advantages of Arihant City?", a: "Arihant City is situated just 1 min from the Mumbai-Nashik Expressway and 2 mins from the upcoming Temghar Metro Station (Line 5)." },
+      { q: "How can I download the cost sheet and pricing structure?", a: "You can download the full pricing sheet and cost breakdown of your flat by submitting the Enquiry Now form." }
+    ]
   }
 ];
 

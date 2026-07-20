@@ -42,6 +42,30 @@
       "destination": "/ready-to-move-flats-in-bhiwandi.html"
     },
     {
+      "source": "/bhiwandi-1-bhk-flat",
+      "destination": "/bhiwandi-1-bhk-flat.html"
+    },
+    {
+      "source": "/1-bhk-flat-in-bhiwandi-for-sale",
+      "destination": "/1-bhk-flat-in-bhiwandi-for-sale.html"
+    },
+    {
+      "source": "/bhiwandi-1-bhk-flat-price",
+      "destination": "/bhiwandi-1-bhk-flat-price.html"
+    },
+    {
+      "source": "/flats-in-bhiwandi",
+      "destination": "/flats-in-bhiwandi.html"
+    },
+    {
+      "source": "/flats-for-sale-in-bhiwandi-millat-nagar",
+      "destination": "/flats-for-sale-in-bhiwandi-millat-nagar.html"
+    },
+    {
+      "source": "/bhiwandi-flat-rate",
+      "destination": "/bhiwandi-flat-rate.html"
+    },
+    {
       "source": "/((?!api|images|blog|.*\\.html$|.*\\.css$|.*\\.js$|.*\\.webp$|.*\\.png$|.*\\.jpg$|.*\\.ico$|robots\\.txt|sitemap\\.xml).*)",
       "destination": "/index.html"
     }

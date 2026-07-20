@@ -12,6 +12,12 @@ const rootPages = [
     { loc: '2-bhk-flat-in-bhiwandi-for-sale', priority: '0.9', changefreq: 'weekly' },
     { loc: '2-bhk-flat-in-anjur-phata-bhiwandi', priority: '0.9', changefreq: 'weekly' },
     { loc: 'ready-to-move-flats-in-bhiwandi', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'bhiwandi-1-bhk-flat', priority: '0.9', changefreq: 'weekly' },
+    { loc: '1-bhk-flat-in-bhiwandi-for-sale', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'bhiwandi-1-bhk-flat-price', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'flats-in-bhiwandi', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'flats-for-sale-in-bhiwandi-millat-nagar', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'bhiwandi-flat-rate', priority: '0.9', changefreq: 'weekly' },
     { loc: 'privacy-policy', priority: '0.5', changefreq: 'yearly' },
     { loc: 'terms-and-conditions', priority: '0.5', changefreq: 'yearly' },
     { loc: 'disclaimer', priority: '0.5', changefreq: 'yearly' }
