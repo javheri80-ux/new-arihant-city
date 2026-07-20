@@ -25,6 +25,9 @@ const rootPages = [
     { loc: 'flats-in-bhiwandi-below-15-lakhs', priority: '0.9', changefreq: 'weekly' },
     { loc: 'bhiwandi-property-tax', priority: '0.9', changefreq: 'weekly' },
     { loc: 'flats-in-bhiwandi-on-rent', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'property-in-bhiwandi', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'property-in-bhiwandi-for-sale', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'luxury-property-in-bhiwandi', priority: '0.9', changefreq: 'weekly' },
     { loc: 'privacy-policy', priority: '0.5', changefreq: 'yearly' },
     { loc: 'terms-and-conditions', priority: '0.5', changefreq: 'yearly' },
     { loc: 'disclaimer', priority: '0.5', changefreq: 'yearly' }

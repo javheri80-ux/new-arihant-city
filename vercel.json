@@ -94,6 +94,18 @@
       "destination": "/flats-in-bhiwandi-on-rent.html"
     },
     {
+      "source": "/property-in-bhiwandi",
+      "destination": "/property-in-bhiwandi.html"
+    },
+    {
+      "source": "/property-in-bhiwandi-for-sale",
+      "destination": "/property-in-bhiwandi-for-sale.html"
+    },
+    {
+      "source": "/luxury-property-in-bhiwandi",
+      "destination": "/luxury-property-in-bhiwandi.html"
+    },
+    {
       "source": "/((?!api|images|blog|.*\\.html$|.*\\.css$|.*\\.js$|.*\\.webp$|.*\\.png$|.*\\.jpg$|.*\\.ico$|robots\\.txt|sitemap\\.xml).*)",
       "destination": "/index.html"
     }

@@ -326,6 +326,57 @@ const pages = [
       { q: "Can I visit the township if I am looking for a flat on rent?", a: "Yes, you can register an enquiry. Our support team can guide you on buying options or connect you with local desk agents for rental properties." },
       { q: "Are there advantages to renting at Arihant City?", a: "Yes, tenants at Arihant City enjoy full access to premium township amenities, including the clubhouse, pool, gardens, and 24/7 round-the-clock security." }
     ]
+  },
+  {
+    filename: 'property-in-bhiwandi.html',
+    keyword: 'Property in bhiwandi',
+    keywordTitle: 'Property in Bhiwandi',
+    title: 'Property in Bhiwandi – Premium Residential Flats in Arihant City',
+    description: 'Find the best property in Bhiwandi. Arihant City offers premium 1, 2 & 3 BHK flats at Kalyan-Bhiwandi Bypass with modern amenities and high appreciation. Book a site visit!',
+    keywords: 'Property in bhiwandi, buy property in bhiwandi, residential project bhiwandi, flats for sale in bhiwandi, arihant city kalyan bypass',
+    h1: 'Premium Residential Property in Bhiwandi - Arihant City',
+    h2: 'Property in Bhiwandi - Layout & Configuration Details',
+    p1: 'If you are looking to buy a premium <strong>Property in bhiwandi</strong>, <strong>Arihant City</strong> is the ideal destination to build your future. A world-class 32-acre township where luxury amenities and nature coexist harmoniously. With its grand architecture and expressway connectivity, this project is the top investment choice.',
+    p2: 'Being a fully MahaRERA-approved project, your investment in a <strong>Property in bhiwandi</strong> here is completely secure. Experience a royal lifestyle with 20+ lifestyle amenities including a pool, gym, and landscaped gardens. Backed by the trust of the Arihant Group, buy your dream property with peace of mind.',
+    faqs: [
+      { q: "What types of property in Bhiwandi are available at Arihant City?", a: "Arihant City offers premium residential configurations including 1 BHK Luxury and 2 BHK Elite apartments, as well as spacious Jodi flats and select retail shop configurations." },
+      { q: "Is Arihant City RERA approved?", a: "Yes, Arihant City is a fully RERA-compliant project. The RERA registration numbers include Phase-I: P51700010884 and Phase-II: P51700028429." },
+      { q: "What is the connectivity of properties in Bhiwandi like at Kalyan Bypass?", a: "It offers exceptional road connectivity to Thane (20 mins), Mumbai, and Navi Mumbai, with the upcoming Temghar Metro Station situated just 2 minutes away." }
+    ]
+  },
+  {
+    filename: 'property-in-bhiwandi-for-sale.html',
+    keyword: 'Property in bhiwandi for sale',
+    keywordTitle: 'Property in Bhiwandi for Sale',
+    title: 'Property in Bhiwandi for sale – Buy Luxury Gated Homes in Arihant City',
+    description: 'Explore premium property in Bhiwandi for sale. Arihant City features RERA-approved 1, 2 & 3 BHK balcony flats on the Kalyan Bypass ring-road touch. Enquire for prices!',
+    keywords: 'Property in bhiwandi for sale, buy flats in bhiwandi, new projects for sale in bhiwandi, gated community flats bhiwandi',
+    h1: 'Premium Property in Bhiwandi for Sale',
+    h2: 'Arihant City Property in Bhiwandi for Sale - Rates & Offers',
+    p1: 'If you are searching for a premium <strong>Property in bhiwandi for sale</strong>, <strong>Arihant City</strong> offers the most luxurious options in the Thane-Kalyan region. Built as a self-sufficient gated township, it provides modern safety, continuous utilities, and an elevated community experience.',
+    p2: 'Being a fully MahaRERA-approved development, your booking of a <strong>Property in bhiwandi for sale</strong> is 100% secure. Avoid local non-RERA constructions and choose the legal trust of the Arihant Group. Enjoy premium township features and easy bank loan options.',
+    faqs: [
+      { q: "How can I buy a property in Bhiwandi for sale at Arihant City?", a: "You can easily register your interest through our contact form. Our sales executives will arrange a free site visit and share layout price lists." },
+      { q: "Are there ready-to-move properties for sale?", a: "Yes, we have completed towers with Occupancy Certificate (OC) received, allowing you to buy and move into your flat immediately with no GST charges." },
+      { q: "What are the payment options for properties for sale?", a: "We offer flexible construction-linked payment plans, down payment schemes, and instant home loan assistance through major nationalized banks." }
+    ]
+  },
+  {
+    filename: 'luxury-property-in-bhiwandi.html',
+    keyword: 'Luxury property in bhiwandi',
+    keywordTitle: 'Luxury Property in Bhiwandi',
+    title: 'Luxury Property in Bhiwandi – 2 BHK & Jodi Balcony Flats | Arihant City',
+    description: 'Experience the best luxury property in Bhiwandi at Arihant City. Gated 32-acre township featuring 20+ amenities, grand clubhouses, pool, gym, and open green spaces. Register today!',
+    keywords: 'Luxury property in bhiwandi, premium flats in bhiwandi, high end apartments bhiwandi, luxury township bhiwandi, 2bhk balcony flat bhiwandi',
+    h1: 'Premium Luxury Property in Bhiwandi - Arihant City',
+    h2: 'Luxury Property in Bhiwandi - World-Class Amenities',
+    p1: 'If you want to experience the finest <strong>Luxury property in bhiwandi</strong>, <strong>Arihant City</strong> represents the peak of premium living. This mega 32-acre township is meticulously designed to offer you grand spaces, high-end fittings, king-size balconies, and scenic open-green views.',
+    p2: 'Being a fully MahaRERA-approved project, your investment in a <strong>Luxury property in bhiwandi</strong> is safe and secure. Escape from local congestion and move into a royal community with premium safety features and 20+ modern amenities. Backed by the trust of the Arihant Group, luxury is now affordable.',
+    faqs: [
+      { q: "What luxury amenities are included in Arihant City?", a: "Amenities include a grand swimming pool, children's play park, modern fitness gymnasium, private clubhouse, jogging track, 24/7 security, and high-speed elevators." },
+      { q: "What sizes are available for luxury flats?", a: "Our luxury configurations include the 2 BHK Elite layout (793 Sq.Ft. Carpet) and double-carpet Jodi apartments starting from 1080 Sq.Ft. Carpet." },
+      { q: "Is there a metro station near this luxury project?", a: "Yes! The upcoming Temghar Metro Station (Metro Line 5) is located just 2 minutes away, connecting you to Thane and Kalyan easily." }
+    ]
   }
 ];
 
