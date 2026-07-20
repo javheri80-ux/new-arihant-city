@@ -294,23 +294,6 @@ const pages = [
     ]
   },
   {
-    filename: 'flats-in-bhiwandi-on-rent.html',
-    keyword: 'Flats in Bhiwandi on rent',
-    keywordTitle: 'Flats in Bhiwandi on Rent',
-    title: 'Flats in Bhiwandi on rent – Rent vs Buy Calculator in Arihant City',
-    description: 'Looking for flats in Bhiwandi on rent? Compare rental yields, monthly rent costs, and affordable EMI structures to buy your own home at Arihant City. Stop renting and start owning today!',
-    keywords: 'Flats in Bhiwandi on rent, rental flats in bhiwandi, 1 bhk rent in bhiwandi, 2 bhk rent bhiwandi, rent vs buy home bhiwandi',
-    h1: 'Rental Options: Flats in Bhiwandi on Rent vs Buying',
-    h2: 'Rental Yields & Buy Options at Arihant City',
-    p1: 'If you are searching for temporary <strong>Flats in Bhiwandi on rent</strong>, <strong>Arihant City</strong> offers high-quality gated community living with premium safety features. However, with low interest rates and flexible developer payment plans, paying rent can be converted into owning your own flat.',
-    p2: 'Being a fully MahaRERA-approved project, buying is highly secure. Stop wasting money on monthly payments for <strong>Flats in Bhiwandi on rent</strong>. Convert your rent to EMI and purchase a luxury home at Arihant City. Backed by the trust of the Arihant Group, homeownership is within your reach.',
-    faqs: [
-      { q: "What is the average rent for flats in Bhiwandi gated communities?", a: "Monthly rents for 1 BHK flats range from ₹8,000 to ₹12,000, while 2 BHK flats range from ₹13,000 to ₹18,000. Arihant City offers great rental opportunities and highly attractive buy-back EMI options." },
-      { q: "Can I visit the township if I am looking for a flat on rent?", a: "Yes, you can register an enquiry. Our support team can guide you on buying options or connect you with local desk agents for rental properties." },
-      { q: "Are there advantages to renting at Arihant City?", a: "Yes, tenants at Arihant City enjoy full access to premium township amenities, including the clubhouse, pool, gardens, and 24/7 round-the-clock security." }
-    ]
-  },
-  {
     filename: 'property-in-bhiwandi.html',
     keyword: 'Property in bhiwandi',
     keywordTitle: 'Property in Bhiwandi',

@@ -23,7 +23,6 @@ const rootPages = [
     { loc: 'property-in-bhiwandi-millat-nagar', priority: '0.9', changefreq: 'weekly' },
     { loc: 'olx-bhiwandi-property', priority: '0.9', changefreq: 'weekly' },
     { loc: 'bhiwandi-property-tax', priority: '0.9', changefreq: 'weekly' },
-    { loc: 'flats-in-bhiwandi-on-rent', priority: '0.9', changefreq: 'weekly' },
     { loc: 'property-in-bhiwandi', priority: '0.9', changefreq: 'weekly' },
     { loc: 'property-in-bhiwandi-for-sale', priority: '0.9', changefreq: 'weekly' },
     { loc: 'luxury-property-in-bhiwandi', priority: '0.9', changefreq: 'weekly' },
