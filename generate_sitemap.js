@@ -18,6 +18,13 @@ const rootPages = [
     { loc: 'flats-in-bhiwandi', priority: '0.9', changefreq: 'weekly' },
     { loc: 'flats-for-sale-in-bhiwandi-millat-nagar', priority: '0.9', changefreq: 'weekly' },
     { loc: 'bhiwandi-flat-rate', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'commercial-property-in-bhiwandi', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'bhiwandi-property-rates-per-square-feet', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'property-in-bhiwandi-millat-nagar', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'olx-bhiwandi-property', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'flats-in-bhiwandi-below-15-lakhs', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'bhiwandi-property-tax', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'flats-in-bhiwandi-on-rent', priority: '0.9', changefreq: 'weekly' },
     { loc: 'privacy-policy', priority: '0.5', changefreq: 'yearly' },
     { loc: 'terms-and-conditions', priority: '0.5', changefreq: 'yearly' },
     { loc: 'disclaimer', priority: '0.5', changefreq: 'yearly' }

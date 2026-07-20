@@ -207,6 +207,125 @@ const pages = [
       { q: "What are the location advantages of Arihant City?", a: "Arihant City is situated just 1 min from the Mumbai-Nashik Expressway and 2 mins from the upcoming Temghar Metro Station (Line 5)." },
       { q: "How can I download the cost sheet and pricing structure?", a: "You can download the full pricing sheet and cost breakdown of your flat by submitting the Enquiry Now form." }
     ]
+  },
+  {
+    filename: 'commercial-property-in-bhiwandi.html',
+    keyword: 'Commercial property in Bhiwandi',
+    keywordTitle: 'Commercial Property in Bhiwandi',
+    title: 'Commercial Property in Bhiwandi – Retail Shops & Showrooms in Arihant City',
+    description: 'Explore premium commercial property in Bhiwandi at Arihant City. Buy luxury retail shops, office spaces, and showrooms with high footfall and prime Kalyan-Bhiwandi Bypass location. Enquire for details!',
+    keywords: 'Commercial property in Bhiwandi, shops for sale in bhiwandi, retail spaces bhiwandi, office space in bhiwandi, commercial project bhiwandi',
+    h1: 'Premium Commercial Property in Bhiwandi - Arihant City',
+    h2: 'Commercial Property in Bhiwandi - Shop Layouts & Locations',
+    p1: 'If you are looking to invest in a highly profitable <strong>Commercial property in Bhiwandi</strong>, <strong>Arihant City</strong> offers prime retail shops and office spaces. Located on the main Kalyan-Bhiwandi Bypass with massive road-facing visibility, this township is the top choice for business owners and commercial investors.',
+    p2: 'Being a fully MahaRERA-approved commercial and residential township, your investment in a <strong>Commercial property in Bhiwandi</strong> here is completely secure. Benefit from the high footfall of 1200+ resident families in the township. Backed by the trust of the Arihant Group, buying commercial spaces here is a royal business opportunity.',
+    faqs: [
+      { q: "What types of commercial property in Bhiwandi are available at Arihant City?", a: "Arihant City offers premium ground-floor retail shops, road-facing showrooms, and modern office spaces suitable for banks, clinics, supermarkets, and boutiques." },
+      { q: "Why is Arihant City the best commercial property in Bhiwandi for investment?", a: "It offers exceptional highway exposure on the Kalyan-Bhiwandi Bypass, close proximity to the upcoming Temghar Metro Station, and an instant customer base of over 1,200 families living within the township." },
+      { q: "Is water and power backup available for commercial shops?", a: "Yes, all retail and commercial layouts feature 24/7 power backup and continuous water supply to ensure uninterrupted business operations." }
+    ]
+  },
+  {
+    filename: 'bhiwandi-property-rates-per-square-feet.html',
+    keyword: 'Bhiwandi Property Rates per square feet',
+    keywordTitle: 'Bhiwandi Property Rates Per Square Feet',
+    title: 'Bhiwandi Property Rates per square feet – Pricing Details | Arihant City',
+    description: 'Get the latest Bhiwandi property rates per square feet. Compare residential flat pricing, carpet area costs, and township rates at Arihant City Kalyan Bypass. Enquire for the full cost sheet!',
+    keywords: 'Bhiwandi Property Rates per square feet, flat rates in bhiwandi, property rates bhiwandi, square feet rate in bhiwandi, arihant city price list',
+    h1: 'Compare Bhiwandi Property Rates Per Square Feet',
+    h2: 'Bhiwandi Property Rates per square feet - Cost Breakdown',
+    p1: 'To understand the current market value, checking <strong>Bhiwandi Property Rates per square feet</strong> is essential. <strong>Arihant City</strong> offers highly competitive rates for luxury homes at the Kalyan-Bhiwandi Bypass, providing the perfect balance of premium features and affordable square feet costs.',
+    p2: 'Being a fully MahaRERA-approved project, your investment is completely secure. Compare our <strong>Bhiwandi Property Rates per square feet</strong> with surrounding projects, and you will find Arihant City offers unmatched value. Backed by the trust of the Arihant Group, booking your flat here is a highly profitable decision.',
+    faqs: [
+      { q: "What are the average Bhiwandi property rates per square feet?", a: "Average property rates in Bhiwandi range from ₹4,500 to ₹6,500 per sq.ft. carpet area. Arihant City offers highly competitive pricing starting at ₹35 Lakhs for luxury configurations." },
+      { q: "Do Bhiwandi property rates per square feet include club charges and parking?", a: "Detailed pricing components, including amenity access, parking, and government taxes, can be found in our comprehensive cost sheets. Request a call back for a complete quote." },
+      { q: "Is there room for capital appreciation at these property rates?", a: "Absolutely. With upcoming infrastructure developments like Metro Line 5 and the ring road connectivity, Bhiwandi property rates per square feet are projected to rise significantly." }
+    ]
+  },
+  {
+    filename: 'property-in-bhiwandi-millat-nagar.html',
+    keyword: 'Property in Bhiwandi Millat Nagar',
+    keywordTitle: 'Property in Bhiwandi Millat Nagar',
+    title: 'Property in Bhiwandi Millat Nagar – Flats & Homes near Millat Nagar',
+    description: 'Looking for premium property in Bhiwandi Millat Nagar region? Explore Arihant City, a luxury 32-acre township located minutes away, offering world-class amenities and metro connectivity. Book a visit!',
+    keywords: 'Property in Bhiwandi Millat Nagar, flats near millat nagar bhiwandi, millat nagar properties, buy home in bhiwandi millat nagar, apartments near millat nagar',
+    h1: 'Premium Property in Bhiwandi Millat Nagar Locality',
+    h2: 'Property in Bhiwandi Millat Nagar Region - Floor Plans',
+    p1: 'If you are searching for a high-quality <strong>Property in Bhiwandi Millat Nagar</strong> vicinity, <strong>Arihant City</strong> is the ideal destination located just a short drive away. It offers a cleaner, greener, and much more modern township lifestyle compared to traditional congested neighborhoods.',
+    p2: 'Being a fully MahaRERA-approved development, your investment in a <strong>Property in Bhiwandi Millat Nagar</strong> area at Arihant City is completely secure. Experience 20+ luxury amenities, including a swimming pool and gym, backed by the trust of the Arihant Group.',
+    faqs: [
+      { q: "Why choose Arihant City over properties in Bhiwandi Millat Nagar?", a: "Arihant City offers a structured 32-acre gated township lifestyle with modern amenities, wider roads, structured parking, and excellent highway connectivity that old localities like Millat Nagar lack." },
+      { q: "What is the distance of Arihant City from Millat Nagar Bhiwandi?", a: "Arihant City is situated just a 10-15 minute drive from Millat Nagar, offering easy commute options via local transport and main bypass roads." },
+      { q: "Are home loans available for buyers looking near Millat Nagar?", a: "Yes, because Arihant City is a fully legal, RERA-approved development, leading nationalized banks like SBI, HDFC, and ICICI provide quick loan approvals." }
+    ]
+  },
+  {
+    filename: 'olx-bhiwandi-property.html',
+    keyword: 'OLX Bhiwandi property',
+    keywordTitle: 'OLX Bhiwandi Property',
+    title: 'OLX Bhiwandi Property – Buy Direct Developer Flats in Arihant City',
+    description: 'Skip brokers on OLX Bhiwandi property searches! Buy direct from the developer at Arihant City. Premium 1, 2 & 3 BHK flats at Kalyan-Bhiwandi Bypass with zero brokerage and best price guarantees.',
+    keywords: 'OLX Bhiwandi property, flats in bhiwandi olx, olx properties bhiwandi, buy flat in bhiwandi without broker, arihant city developer sale',
+    h1: 'Direct Developer Sale - Skip OLX Bhiwandi Property Brokers',
+    h2: 'Arihant City - Certified Alternative to OLX Bhiwandi Property',
+    p1: 'When searching for listings under <strong>OLX Bhiwandi property</strong>, you often deal with unverified listings and high brokerage fees. <strong>Arihant City</strong> offers direct-from-developer bookings for brand new, luxury apartments on the Kalyan Bypass, ensuring a 100% transparent purchase.',
+    p2: 'Being a fully MahaRERA-approved project, your investment is completely secure with direct developer pricing. Avoid the risks of secondary market properties on <strong>OLX Bhiwandi property</strong> boards. Backed by the trust of the Arihant Group, buy your home with complete peace of mind.',
+    faqs: [
+      { q: "Why book directly at Arihant City instead of browsing OLX Bhiwandi property?", a: "Booking directly with Arihant City guarantees brand-new apartments, zero brokerage fees, official builder warranties, developer payment plans, and direct channel partner assistance." },
+      { q: "Are there ready-to-move options available directly from the developer?", a: "Yes, Arihant City has finished phases with Occupancy Certificate (OC) received, meaning you can buy immediate-possession flats directly without any third-party risk." },
+      { q: "Do you offer developer-backed payment plans?", a: "Yes, we offer various flexible, construction-linked plans and special spot-booking offers that are not available through generic OLX brokers." }
+    ]
+  },
+  {
+    filename: 'flats-in-bhiwandi-below-15-lakhs.html',
+    keyword: 'Flats in Bhiwandi below 15 lakhs',
+    keywordTitle: 'Flats in Bhiwandi Below 15 Lakhs',
+    title: 'Flats in Bhiwandi below 15 lakhs – Budget Homes & Payment Plans',
+    description: 'Looking for flats in Bhiwandi below 15 lakhs? Explore budget-friendly EMI schemes, low down payments, and government PMAY subsidies at Arihant City. Premium township homes starting at easy rates.',
+    keywords: 'Flats in Bhiwandi below 15 lakhs, budget flats in bhiwandi, affordable housing bhiwandi, 15 lakh flats in bhiwandi, cheap flats bhiwandi',
+    h1: 'Affordable Housing: Flats in Bhiwandi Below 15 Lakhs Options',
+    h2: 'Budget Homes & Payment Schemes in Arihant City',
+    p1: 'While finding premium <strong>Flats in Bhiwandi below 15 lakhs</strong> is highly challenging in today\'s market, <strong>Arihant City</strong> provides excellent low-down-payment options, convenient construction-linked payment plans, and government subsidy benefits to help budget buyers own a home.',
+    p2: 'Being a fully MahaRERA-approved township, your investment is completely safe. Avoid illegal, non-RERA local constructions that advertise <strong>Flats in Bhiwandi below 15 lakhs</strong>. Backed by the trust of the Arihant Group, we help you secure bank loans to make your home-owning dream a reality.',
+    faqs: [
+      { q: "Are there legal, RERA-approved flats in Bhiwandi below 15 lakhs?", a: "Most fully legal, gated township properties start around ₹30-35 Lakhs. However, Arihant City offers attractive bank loan assistance and PMAY subsidy benefits that make owning a home affordable." },
+      { q: "What is the risk of buying local unregistered flats under 15 lakhs?", a: "Buying non-RERA registered local flats carries high legal risks, absence of Occupancy Certificates (OC), water issues, and lack of home loan approvals from nationalized banks." },
+      { q: "Does the government offer any subsidies for affordable housing?", a: "Yes! Under the Pradhan Mantri Awas Yojana (PMAY), eligible first-time homebuyers can receive significant interest subsidies, lowering the effective purchase cost." }
+    ]
+  },
+  {
+    filename: 'bhiwandi-property-tax.html',
+    keyword: 'Bhiwandi property tax',
+    keywordTitle: 'Bhiwandi Property Tax',
+    title: 'Bhiwandi property tax – Payment Guidelines & Info | Arihant City',
+    description: 'Understand Bhiwandi property tax regulations for new homes. Learn about property tax calculations, BNMC online payment guides, and township municipal records at Arihant City. Read now!',
+    keywords: 'Bhiwandi property tax, bnmc property tax payment, pay property tax bhiwandi, property tax online bhiwandi, municipal tax bhiwandi',
+    h1: 'Bhiwandi Property Tax Guide for Homeowners',
+    h2: 'Property Tax Regulations at Arihant City Township',
+    p1: 'Understanding municipal rates and <strong>Bhiwandi property tax</strong> calculations is crucial when buying a flat. At <strong>Arihant City</strong>, all municipal records under the Bhiwandi-Nizampur Municipal Corporation (BNMC) are clear and legally compliant, making tax assessment hassle-free for homeowners.',
+    p2: 'Being a fully MahaRERA-approved township, all legal property titles are clear. Your <strong>Bhiwandi property tax</strong> accounts can be easily registered online with the corporation once possession is completed. Backed by the trust of the Arihant Group, we assist you in all documentation requirements.',
+    faqs: [
+      { q: "How is Bhiwandi property tax calculated for flats at Arihant City?", a: "Property tax is assessed by the BNMC based on the built-up area of the flat, usage type (residential), and the local zone rate. The builder handles initial assessments prior to society handovers." },
+      { q: "Can BNMC property tax be paid online?", a: "Yes, BNMC property tax can be paid easily online via the official BNMC web portal using your unique property assessment number." },
+      { q: "Are there penalties for late payment of Bhiwandi property tax?", a: "Yes, municipal corporations typically levy a monthly penalty fee of 1-2% on outstanding tax amounts. Paying online before the deadline prevents these extra fees." }
+    ]
+  },
+  {
+    filename: 'flats-in-bhiwandi-on-rent.html',
+    keyword: 'Flats in Bhiwandi on rent',
+    keywordTitle: 'Flats in Bhiwandi on Rent',
+    title: 'Flats in Bhiwandi on rent – Rent vs Buy Calculator in Arihant City',
+    description: 'Looking for flats in Bhiwandi on rent? Compare rental yields, monthly rent costs, and affordable EMI structures to buy your own home at Arihant City. Stop renting and start owning today!',
+    keywords: 'Flats in Bhiwandi on rent, rental flats in bhiwandi, 1 bhk rent in bhiwandi, 2 bhk rent bhiwandi, rent vs buy home bhiwandi',
+    h1: 'Rental Options: Flats in Bhiwandi on Rent vs Buying',
+    h2: 'Rental Yields & Buy Options at Arihant City',
+    p1: 'If you are searching for temporary <strong>Flats in Bhiwandi on rent</strong>, <strong>Arihant City</strong> offers high-quality gated community living with premium safety features. However, with low interest rates and flexible developer payment plans, paying rent can be converted into owning your own flat.',
+    p2: 'Being a fully MahaRERA-approved project, buying is highly secure. Stop wasting money on monthly payments for <strong>Flats in Bhiwandi on rent</strong>. Convert your rent to EMI and purchase a luxury home at Arihant City. Backed by the trust of the Arihant Group, homeownership is within your reach.',
+    faqs: [
+      { q: "What is the average rent for flats in Bhiwandi gated communities?", a: "Monthly rents for 1 BHK flats range from ₹8,000 to ₹12,000, while 2 BHK flats range from ₹13,000 to ₹18,000. Arihant City offers great rental opportunities and highly attractive buy-back EMI options." },
+      { q: "Can I visit the township if I am looking for a flat on rent?", a: "Yes, you can register an enquiry. Our support team can guide you on buying options or connect you with local desk agents for rental properties." },
+      { q: "Are there advantages to renting at Arihant City?", a: "Yes, tenants at Arihant City enjoy full access to premium township amenities, including the clubhouse, pool, gardens, and 24/7 round-the-clock security." }
+    ]
   }
 ];
 

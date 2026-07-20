@@ -66,6 +66,34 @@
       "destination": "/bhiwandi-flat-rate.html"
     },
     {
+      "source": "/commercial-property-in-bhiwandi",
+      "destination": "/commercial-property-in-bhiwandi.html"
+    },
+    {
+      "source": "/bhiwandi-property-rates-per-square-feet",
+      "destination": "/bhiwandi-property-rates-per-square-feet.html"
+    },
+    {
+      "source": "/property-in-bhiwandi-millat-nagar",
+      "destination": "/property-in-bhiwandi-millat-nagar.html"
+    },
+    {
+      "source": "/olx-bhiwandi-property",
+      "destination": "/olx-bhiwandi-property.html"
+    },
+    {
+      "source": "/flats-in-bhiwandi-below-15-lakhs",
+      "destination": "/flats-in-bhiwandi-below-15-lakhs.html"
+    },
+    {
+      "source": "/bhiwandi-property-tax",
+      "destination": "/bhiwandi-property-tax.html"
+    },
+    {
+      "source": "/flats-in-bhiwandi-on-rent",
+      "destination": "/flats-in-bhiwandi-on-rent.html"
+    },
+    {
       "source": "/((?!api|images|blog|.*\\.html$|.*\\.css$|.*\\.js$|.*\\.webp$|.*\\.png$|.*\\.jpg$|.*\\.ico$|robots\\.txt|sitemap\\.xml).*)",
       "destination": "/index.html"
     }
