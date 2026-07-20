@@ -355,7 +355,7 @@ pages.forEach(page => {
 
     // 6. OG URL (using clean URL on active domain)
     content = content.replace(/<meta property="og:url" content="[^"]*"[^>]*>/, 
-        `<meta property="og:url" content="https://www.arihantcity.site/${cleanPath}" />`);
+        `<meta property="og:url" content="https://www.arihant.city/${cleanPath}" />`);
 
     // 7. Twitter Title
     content = content.replace(/<meta name="twitter:title" content="[^"]*"[^>]*>/, 
@@ -367,7 +367,7 @@ pages.forEach(page => {
 
     // 9. Canonical (using clean URL on active domain)
     content = content.replace(/<link rel="canonical" href="[^"]*"[^>]*>/, 
-        `<link rel="canonical" href="https://www.arihantcity.site/${cleanPath}" />`);
+        `<link rel="canonical" href="https://www.arihant.city/${cleanPath}" />`);
 
     // 10. H1 tag: Replace hidden H1 placeholder with empty div for skip-link compatibility
     content = content.replace(/<h1 id="main-content" class="visually-hidden"[\s\S]*?>[\s\S]*?<\/h1>/, 
@@ -389,8 +389,8 @@ pages.forEach(page => {
 
     // 14. Breadcrumb Schema third item url and name (using clean URL on active domain)
     content = content.replace(
-        /{"@type": "ListItem", "position": 3, "name": "Arihant City", "item": "https:\/\/www.arihantcity.site\/#"}/,
-        `{"@type": "ListItem", "position": 3, "name": "${page.keywordTitle}", "item": "https://www.arihantcity.site/${cleanPath}"}`
+        /{"@type": "ListItem", "position": 3, "name": "Arihant City", "item": "https:\/\/www.arihant.city\/#"}/,
+        `{"@type": "ListItem", "position": 3, "name": "${page.keywordTitle}", "item": "https://www.arihant.city/${cleanPath}"}`
     );
 
     // 15. Dynamic AEO / GEO FAQ Schema Generation

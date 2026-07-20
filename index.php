@@ -44,23 +44,23 @@ function get_val($key, $fallback = '')
     <meta property="og:title" content="Arihant City – Premium Residential Township | Luxury Flats & Plots" />
     <meta property="og:description"
         content="Find your dream home in Arihant City. Premium 2BHK, 3BHK flats, plots, and villas. World-class amenities, prime location." />
-    <meta property="og:url" content="https://www.arihantcity.site/" />
-    <meta property="og:image" content="https://www.arihantcity.site/images/hero_banner_1776905712.webp" />
+    <meta property="og:url" content="https://www.arihant.city/" />
+    <meta property="og:image" content="https://www.arihant.city/images/hero_banner_1776905712.webp" />
     <meta property="article:published_time" content="2026-04-17T09:05:09+05:30" />
     <meta property="article:modified_time" content="2026-04-17T10:15:27+05:30" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Arihant City – Premium Residential Township | Luxury Flats & Plots" />
     <meta name="twitter:description"
         content="Find your dream home in Arihant City. Premium 2BHK, 3BHK flats, plots, and villas." />
-    <meta name="twitter:image" content="https://www.arihantcity.site/images/hero_banner_1776905712.webp" />
+    <meta name="twitter:image" content="https://www.arihant.city/images/hero_banner_1776905712.webp" />
     <meta name="robots" content="index, follow" />
     <meta name="theme-color" content="#500115" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="application-name" content="Arihant City" />
     <meta name="apple-mobile-web-app-title" content="Arihant City" />
-    <link rel="shortcut icon" type="image/webp" href="https://www.arihantcity.site/images/favicon.webp" />
-    <link rel="canonical" href="https://www.arihantcity.site/" />
+    <link rel="shortcut icon" type="image/webp" href="https://www.arihant.city/images/favicon.webp" />
+    <link rel="canonical" href="https://www.arihant.city/" />
 
     <!-- Schema Markup JSON-LD SEO Additions -->
     <script type="application/ld+json">
@@ -68,8 +68,8 @@ function get_val($key, $fallback = '')
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Arihant City",
-      "url": "https://www.arihantcity.site",
-      "logo": "https://www.arihantcity.site/images/site_logo_1776905712.webp",
+      "url": "https://www.arihant.city",
+      "logo": "https://www.arihant.city/images/site_logo_1776905712.webp",
       "contactPoint": {
         "@type": "ContactPoint",
         "telephone": "+91-9028259563",
@@ -83,7 +83,7 @@ function get_val($key, $fallback = '')
       "@type": "Product",
       "name": "Arihant City Residential Flats",
       "description": "Premium 2BHK and 3BHK flats in Arihant City township with world-class amenities.",
-      "image": "https://www.arihantcity.site/images/hero_banner_1776905712.webp",
+      "image": "https://www.arihant.city/images/hero_banner_1776905712.webp",
       "brand": {"@type": "Brand", "name": "Arihant City"},
       "offers": {
         "@type": "Offer",
@@ -128,9 +128,9 @@ function get_val($key, $fallback = '')
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.arihantcity.site"},
-        {"@type": "ListItem", "position": 2, "name": "Real Estate", "item": "https://www.arihantcity.site/#"},
-        {"@type": "ListItem", "position": 3, "name": "Arihant City", "item": "https://www.arihantcity.site/#"}
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.arihant.city"},
+        {"@type": "ListItem", "position": 2, "name": "Real Estate", "item": "https://www.arihant.city/#"},
+        {"@type": "ListItem", "position": 3, "name": "Arihant City", "item": "https://www.arihant.city/#"}
       ]
     }
     </script>
@@ -805,10 +805,10 @@ function get_val($key, $fallback = '')
       "@context": "https://schema.org",
       "@type": "WebSite",
       "name": "Arihant City Kalyan Bhiwandi",
-      "url": "https://www.arihantcity.site/",
+      "url": "https://www.arihant.city/",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://www.arihantcity.site/blog.html?q={search_term_string}",
+        "target": "https://www.arihant.city/blog.html?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     }
@@ -1162,7 +1162,7 @@ function get_val($key, $fallback = '')
                         Project | Transparent & Secure Buying</span></p>
                 <form action="https://formsubmit.co/javheri80@gmail.com" method="POST" id="contact-form" name="contactForm"
                     aria-label="Arihant City Booking Form">
-                    <input type="hidden" name="_next" value="https://www.arihantcity.site/thank-you.html">
+                    <input type="hidden" name="_next" value="https://www.arihant.city/thank-you.html">
                     <input type="hidden" name="_subject" value="New Enquiry: Arihant City Kalyan Bhiwandi">
                     <input type="hidden" name="_captcha" value="false">
                     <input type="hidden" name="_template" value="table">
@@ -1215,7 +1215,7 @@ function get_val($key, $fallback = '')
             </div>
             <div class="modal-body">
                 <form action="https://formsubmit.co/javheri80@gmail.com" method="POST" aria-label="Arihant City Price Request Form">
-                    <input type="hidden" name="_next" value="https://www.arihantcity.site/thank-you.html">
+                    <input type="hidden" name="_next" value="https://www.arihant.city/thank-you.html">
                     <input type="hidden" name="_subject" value="Price Request: Arihant City Kalyan Bhiwandi">
                     <input type="hidden" name="_captcha" value="false">
                     <input type="hidden" name="_template" value="table">
@@ -1245,7 +1245,7 @@ function get_val($key, $fallback = '')
             </div>
             <div class="modal-body">
                 <form action="https://formsubmit.co/javheri80@gmail.com" method="POST" aria-label="Arihant City Page Load Enquiry Form">
-                    <input type="hidden" name="_next" value="https://www.arihantcity.site/thank-you.html">
+                    <input type="hidden" name="_next" value="https://www.arihant.city/thank-you.html">
                     <input type="hidden" name="_subject" value="🔥 Hot Lead (Popup): Arihant City Kalyan Bhiwandi">
                     <input type="hidden" name="_captcha" value="false">
                     <input type="hidden" name="_template" value="table">

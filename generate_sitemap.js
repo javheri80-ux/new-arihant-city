@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DOMAIN = 'https://www.arihantcity.site';
+const DOMAIN = 'https://www.arihant.city';
 const dateStr = new Date().toISOString().split('T')[0];
 
 const rootPages = [

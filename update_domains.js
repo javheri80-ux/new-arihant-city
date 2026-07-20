@@ -16,14 +16,17 @@ files.forEach(file => {
     if (fs.existsSync(filePath)) {
         let content = fs.readFileSync(filePath, 'utf8');
         
-        // Replace all arihant.city references with www.arihantcity.site
-        const updatedContent = content.split('https://arihant.city').join('https://www.arihantcity.site');
+        // Normalize any old references to the official production domain
+        let updatedContent = content;
+        updatedContent = updatedContent.split('https://www.arihantcity.site').join('https://www.arihant.city');
+        updatedContent = updatedContent.split('https://arihantcity.site').join('https://www.arihant.city');
+        updatedContent = updatedContent.split('https://arihant.city').join('https://www.arihant.city');
         
         if (updatedContent !== content) {
             fs.writeFileSync(filePath, updatedContent, 'utf8');
-            console.log(`Updated domains in ${file}`);
+            console.log(`Normalized domain in ${file}`);
         }
     }
 });
 
-console.log("Domain updates complete!");
+console.log("Domain normalization complete!");
